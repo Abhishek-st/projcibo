@@ -12,7 +12,7 @@ export default function SearchScreen(){
 
     const fetchData =() => {
         setLoading(true)
-        fetch(`https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=${value}&type=video&key=AIzaSyBEXTs41MixQNa2JpOV6C4s31MeEA2fLng`)
+        fetch(`https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=${value}&type=video&key=[YOUR_API_KEY]`)
         .then(res=>res.json())
         .then(data=>{
             console.log(data)
