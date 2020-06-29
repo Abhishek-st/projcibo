@@ -1,0 +1,37 @@
+{
+  "name": "projcibo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "aws-sdk": "^2.705.0",
+    "base64-arraybuffer": "^0.2.0",
+    "react": "16.11.0",
+    "react-native": "0.62.2",
+    "react-native-document-picker": "^3.5.2",
+    "react-native-fs": "^2.16.6",
+    "react-native-image-picker": "^2.3.1",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-video": "^4.4.5",
+    "rn-media-meta": "0.0.11"
+  },
+  "devDependencies": {
+    "@babel/core": "7.10.3",
+    "@babel/runtime": "7.10.3",
+    "@react-native-community/eslint-config": "0.0.5",
+    "babel-jest": "24.9.0",
+    "eslint": "6.8.0",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.58.0",
+    "react-test-renderer": "16.11.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
