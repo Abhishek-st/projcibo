@@ -9,3 +9,4 @@
 <li>In other type npx react-native run-android</li>
 </ol>
 ![alt text](https://github.com/Abhishek-st/projcibo/blob/master/Screenshot%20from%202020-07-21%2007-21-57.png?raw=true)
+<img src="https://github.com/Abhishek-st/projcibo/blob/master/Screenshot%20from%202020-07-21%2007-21-57.png?raw=true" />
