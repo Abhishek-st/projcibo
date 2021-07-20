@@ -17,7 +17,7 @@
     "aws-sdk": "^2.705.0",
     "base64-arraybuffer": "^0.2.0",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-document-picker": "^3.5.2",
     "react-native-fs": "^2.16.6",
     "react-native-gesture-handler": "^1.6.1",
