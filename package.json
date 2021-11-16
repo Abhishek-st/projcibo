@@ -14,7 +14,7 @@
     "@react-navigation/bottom-tabs": "^5.6.1",
     "@react-navigation/native": "^5.6.1",
     "@react-navigation/stack": "^5.6.2",
-    "aws-sdk": "^2.705.0",
+    "aws-sdk": "^2.814.0",
     "base64-arraybuffer": "^0.2.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
